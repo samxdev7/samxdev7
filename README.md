@@ -14,7 +14,7 @@ My name is Samuel Rueda, and I am dedicated to growth and getting better every d
 [![My Skills](https://skillicons.dev/icons?i=git,linux,vim,vscode)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
-![samxdev7's Stats](https://github-readme-stats.vercel.app/api?username=samxdev7&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)<br/>
+![samxdev7's Stats](https://github-readme-stats.vercel.app/api?username=samxdev7&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 ![samxdev7's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samxdev7&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 <!--
