@@ -8,7 +8,7 @@ My name is Samuel Rueda, and I am dedicated to growth and getting better every d
 <br>⚡ **Fun fact:** Sometimes I play GD and I listen to Camellia a lot xd.
 
 # 💻 Languages:
-[![My Skills](https://skillicons.dev/icons?i=c,js,html,css,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,js,html,css,py,java)](https://skillicons.dev)
 
 # 🛠️ Tools:
 [![My Skills](https://skillicons.dev/icons?i=git,linux,vim,vscode)](https://skillicons.dev)
